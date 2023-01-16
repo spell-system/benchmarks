@@ -1,0 +1,4 @@
+http://yago-knowledge.org/resource/Stanley_Kubrick:_A_Life_in_Pictures
+http://yago-knowledge.org/resource/Passage_to_Marseille
+http://yago-knowledge.org/resource/Eat_the_Document
+http://yago-knowledge.org/resource/The_Divine_Nymph

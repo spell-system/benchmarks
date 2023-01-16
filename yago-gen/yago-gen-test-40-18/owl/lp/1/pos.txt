@@ -1,0 +1,4 @@
+http://yago-knowledge.org/resource/Goodbye,_Mr._Chips_(1969_film)
+http://yago-knowledge.org/resource/Back_to_School
+http://yago-knowledge.org/resource/G.I._Blues
+http://yago-knowledge.org/resource/The_Happy_Ending

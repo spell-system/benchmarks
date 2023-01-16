@@ -1,0 +1,4 @@
+http://yago-knowledge.org/resource/Journey_to_Italy
+http://yago-knowledge.org/resource/David_and_Bathsheba_(film)
+http://yago-knowledge.org/resource/I_Love_Lucy_(film)
+http://yago-knowledge.org/resource/The_Taming_of_the_Shrew_(1967_film)

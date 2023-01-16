@@ -1,0 +1,4 @@
+http://yago-knowledge.org/resource/Imagine:_John_Lennon
+http://yago-knowledge.org/resource/The_Victors_(1963_film)
+http://yago-knowledge.org/resource/Blues_in_the_Night_(film)
+http://yago-knowledge.org/resource/La_Libération_de_Paris

@@ -1,0 +1,9 @@
+Benchmark generated using sat-learning tool
+number of positive examples: 34
+number of negative examples: 200
+Owl file: tests/OWL2EL-1.owl
+total number of individuals: 1148
+separating concept size bound: 4
+separating concept: <http://benchmark/OWL2Bench#UGCourse> \sqcap \exists <http://benchmark/OWL2Bench#isTaughtBy>.(<http://benchmark/OWL2Bench#Woman> \sqcap \exists <http://benchmark/OWL2Bench#isAssistantProfessorOf>.\top \sqcap \exists <http://benchmark/OWL2Bench#isCrazyAbout>.\top)
+bound on examples: 200
+frontier weakening steps: 4

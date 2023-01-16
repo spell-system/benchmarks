@@ -1,0 +1,8 @@
+http://yago-knowledge.org/resource/Hombre_(film)
+http://yago-knowledge.org/resource/The_Paper_(film)
+http://yago-knowledge.org/resource/All_Through_the_Night_(film)
+http://yago-knowledge.org/resource/The_Stealers
+http://yago-knowledge.org/resource/Symphony_in_Black
+http://yago-knowledge.org/resource/Rhythm_on_the_Range
+http://yago-knowledge.org/resource/Charlie:_The_Life_and_Art_of_Charles_Chaplin
+http://yago-knowledge.org/resource/Enter_Madame_(1935_film)

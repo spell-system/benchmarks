@@ -1,0 +1,9 @@
+http://yago-knowledge.org/resource/Isadora
+http://yago-knowledge.org/resource/Tokyo_Joe_(film)
+http://yago-knowledge.org/resource/Joan_of_Arc_(miniseries)
+http://yago-knowledge.org/resource/Facing_Ali
+http://yago-knowledge.org/resource/On_the_Waterfront
+http://yago-knowledge.org/resource/Duffy's_Tavern_(film)
+http://yago-knowledge.org/resource/Journey_to_Italy
+http://yago-knowledge.org/resource/The_Hour_of_the_Furnaces
+http://yago-knowledge.org/resource/Churchill_and_the_Generals

@@ -1,0 +1,4 @@
+Benchmark is automatically generated for SPELL
+Number of positive examples: 1
+Number of negative examples: 1
+Target query: \exists r.\exists r.(A0 \sqcap A1 \sqcap A2)

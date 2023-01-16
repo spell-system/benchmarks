@@ -1,0 +1,3 @@
+Benchmark generated using sat-learning tool
+number of positive examples: 3
+number of negative examples: 47

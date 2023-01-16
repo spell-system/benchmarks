@@ -1,0 +1,5 @@
+http://yago-knowledge.org/resource/Triumph_Over_Violence
+http://yago-knowledge.org/resource/Elvis_in_Concert
+http://yago-knowledge.org/resource/The_Secret_of_Nikola_Tesla
+http://yago-knowledge.org/resource/The_Mute_of_Portici
+http://yago-knowledge.org/resource/Manufacturing_Dissent

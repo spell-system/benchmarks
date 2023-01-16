@@ -1,0 +1,113 @@
+<?xml version="1.0"?> 
+ <rdf:RDF xmlns="urn:absolute:test#" xml:base="urn:absolute:test" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xml="http://www.w3.org/XML/1998/namespace" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:test="http://example.com/test#"> <owl:Ontology rdf:about="urn:absolute:test"/> 
+<owl:Class rdf:about="http://example.com/test#A3"/>
+<owl:Class rdf:about="http://example.com/test#A4"/>
+<owl:Class rdf:about="http://example.com/test#A1"/>
+<owl:Class rdf:about="http://example.com/test#A7"/>
+<owl:Class rdf:about="http://example.com/test#A0"/>
+<owl:Class rdf:about="http://example.com/test#A2"/>
+<owl:Class rdf:about="http://example.com/test#A6"/>
+<owl:Class rdf:about="http://example.com/test#A5"/>
+<owl:ObjectProperty rdf:about="http://example.com/test#r"/>
+<owl:NamedIndividual rdf:about="http://example.com/test#a0">
+    <test:r rdf:resource="http://example.com/test#a2"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://example.com/test#a1">
+    <test:r rdf:resource="http://example.com/test#a3"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://example.com/test#a2">
+    <test:r rdf:resource="http://example.com/test#a4"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://example.com/test#a3">
+    <test:r rdf:resource="http://example.com/test#a5"/>
+    <test:r rdf:resource="http://example.com/test#a6"/>
+    <test:r rdf:resource="http://example.com/test#a7"/>
+    <test:r rdf:resource="http://example.com/test#a8"/>
+    <test:r rdf:resource="http://example.com/test#a9"/>
+    <test:r rdf:resource="http://example.com/test#a10"/>
+    <test:r rdf:resource="http://example.com/test#a11"/>
+    <test:r rdf:resource="http://example.com/test#a12"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://example.com/test#a4">
+    <rdf:type rdf:resource="http://example.com/test#A0"/>
+    <rdf:type rdf:resource="http://example.com/test#A3"/>
+    <rdf:type rdf:resource="http://example.com/test#A2"/>
+    <rdf:type rdf:resource="http://example.com/test#A1"/>
+    <rdf:type rdf:resource="http://example.com/test#A5"/>
+    <rdf:type rdf:resource="http://example.com/test#A6"/>
+    <rdf:type rdf:resource="http://example.com/test#A4"/>
+    <rdf:type rdf:resource="http://example.com/test#A7"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://example.com/test#a5">
+    <rdf:type rdf:resource="http://example.com/test#A0"/>
+    <rdf:type rdf:resource="http://example.com/test#A3"/>
+    <rdf:type rdf:resource="http://example.com/test#A2"/>
+    <rdf:type rdf:resource="http://example.com/test#A1"/>
+    <rdf:type rdf:resource="http://example.com/test#A5"/>
+    <rdf:type rdf:resource="http://example.com/test#A4"/>
+    <rdf:type rdf:resource="http://example.com/test#A7"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://example.com/test#a6">
+    <rdf:type rdf:resource="http://example.com/test#A0"/>
+    <rdf:type rdf:resource="http://example.com/test#A2"/>
+    <rdf:type rdf:resource="http://example.com/test#A1"/>
+    <rdf:type rdf:resource="http://example.com/test#A5"/>
+    <rdf:type rdf:resource="http://example.com/test#A6"/>
+    <rdf:type rdf:resource="http://example.com/test#A4"/>
+    <rdf:type rdf:resource="http://example.com/test#A7"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://example.com/test#a7">
+    <rdf:type rdf:resource="http://example.com/test#A0"/>
+    <rdf:type rdf:resource="http://example.com/test#A3"/>
+    <rdf:type rdf:resource="http://example.com/test#A2"/>
+    <rdf:type rdf:resource="http://example.com/test#A1"/>
+    <rdf:type rdf:resource="http://example.com/test#A5"/>
+    <rdf:type rdf:resource="http://example.com/test#A6"/>
+    <rdf:type rdf:resource="http://example.com/test#A7"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://example.com/test#a8">
+    <rdf:type rdf:resource="http://example.com/test#A0"/>
+    <rdf:type rdf:resource="http://example.com/test#A3"/>
+    <rdf:type rdf:resource="http://example.com/test#A2"/>
+    <rdf:type rdf:resource="http://example.com/test#A5"/>
+    <rdf:type rdf:resource="http://example.com/test#A6"/>
+    <rdf:type rdf:resource="http://example.com/test#A4"/>
+    <rdf:type rdf:resource="http://example.com/test#A7"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://example.com/test#a9">
+    <rdf:type rdf:resource="http://example.com/test#A0"/>
+    <rdf:type rdf:resource="http://example.com/test#A3"/>
+    <rdf:type rdf:resource="http://example.com/test#A1"/>
+    <rdf:type rdf:resource="http://example.com/test#A5"/>
+    <rdf:type rdf:resource="http://example.com/test#A6"/>
+    <rdf:type rdf:resource="http://example.com/test#A4"/>
+    <rdf:type rdf:resource="http://example.com/test#A7"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://example.com/test#a10">
+    <rdf:type rdf:resource="http://example.com/test#A0"/>
+    <rdf:type rdf:resource="http://example.com/test#A3"/>
+    <rdf:type rdf:resource="http://example.com/test#A2"/>
+    <rdf:type rdf:resource="http://example.com/test#A1"/>
+    <rdf:type rdf:resource="http://example.com/test#A6"/>
+    <rdf:type rdf:resource="http://example.com/test#A4"/>
+    <rdf:type rdf:resource="http://example.com/test#A7"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://example.com/test#a11">
+    <rdf:type rdf:resource="http://example.com/test#A0"/>
+    <rdf:type rdf:resource="http://example.com/test#A3"/>
+    <rdf:type rdf:resource="http://example.com/test#A2"/>
+    <rdf:type rdf:resource="http://example.com/test#A1"/>
+    <rdf:type rdf:resource="http://example.com/test#A5"/>
+    <rdf:type rdf:resource="http://example.com/test#A6"/>
+    <rdf:type rdf:resource="http://example.com/test#A4"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="http://example.com/test#a12">
+    <rdf:type rdf:resource="http://example.com/test#A3"/>
+    <rdf:type rdf:resource="http://example.com/test#A2"/>
+    <rdf:type rdf:resource="http://example.com/test#A1"/>
+    <rdf:type rdf:resource="http://example.com/test#A5"/>
+    <rdf:type rdf:resource="http://example.com/test#A6"/>
+    <rdf:type rdf:resource="http://example.com/test#A4"/>
+    <rdf:type rdf:resource="http://example.com/test#A7"/>
+</owl:NamedIndividual>
+</rdf:RDF>
